@@ -3,7 +3,10 @@
 This project implements a machine learning solution to predict customer churn in a banking context using Artificial Neural Networks (ANN). The model analyzes various customer attributes to predict whether a customer is likely to leave the bank.
 
 ## 🔴 Live Demo
-Check out the live application: [Bank Customer Churn Predictor](https://your-streamlit-app-url.streamlit.app)
+Check out the live application: [Bank Customer Churn Predictor](https://churn-prediction-mkc6xwmyt27rlps7noqebq.streamlit.app/)
+
+
+![Bank Churn](https://imgs.search.brave.com/3wuPh_SHH-BUiLRKD_XBSTyAO5OLQqaXHWaONQGWb7M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0Q0/RDEyQVFIZFY1enRi/ck12UGcvYXJ0aWNs/ZS1jb3Zlcl9pbWFn/ZS1zaHJpbmtfNjAw/XzIwMDAvMC8xNjky/NjQxNTEzMTI4P2U9/MjE0NzQ4MzY0NyZ2/PWJldGEmdD1QN2kz/NlZGR1M1WUJtaHNW/MmtJTG9Cc2hhYS03/U1hZbVdqOEZuUDVR/SjVN)
 
 ## 📊 Project Overview
 
